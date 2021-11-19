@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Cemil.
 - 🌱 I’m currently learning .Net Core, React.js etc.
 - 👯 I’m looking to collaborate on web projects.
-- 💬 How to reach me: gokalpcakar@gmail.com
-- 📫 Connect with me: <a href="https://linkedin.com/in/cengizcmataraci" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="cengizcmataraci" height="30" width="30" /></a>
+- 📫 How to reach me: gokalpcakar@gmail.com
+- 💬 Connect with me: <a href="https://linkedin.com/in/cengizcmataraci" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="cengizcmataraci" height="30" width="30" /></a>
 ### Technologies:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="22" height="30"/> </a> 
