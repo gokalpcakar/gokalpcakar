@@ -23,6 +23,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnetcore" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="30" height="30"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokalpcakar&show_icons=true&theme=radical&locale=en&layout=compact" alt="gokalpcakar" /></p>
 
